@@ -27,10 +27,10 @@ driver.maximize_window()
 driver.get("https://livehealth.solutions")
 
 username=driver.find_element(By.NAME,'username')
-username.send_keys('pacs-rounak')
+username.send_keys('username')
 
 password=driver.find_element(By.NAME, 'password')
-password.send_keys('Ttly@2241')
+password.send_keys('password')
 
 
 signInBtn=driver.find_element(By.XPATH,"//*[@id='lab-form']/div[4]/input")
