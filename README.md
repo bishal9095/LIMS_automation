@@ -8,7 +8,7 @@ This project automates the process of fetching files from a web source and stori
  
  * Data extraction and transformation using Python.
  
- * Storing and organizing data in Excel format using openpyxl.
+ * Storing and organizing data in Excel format using pandas.
  
  * Customizable workflow for different file types and formats.
 ## Technologies Used:
@@ -17,6 +17,6 @@ This project automates the process of fetching files from a web source and stori
  
  * Selenium: Web automation framework for browser interaction.
  
- * Excel (openpyxl): For data storage and organization in Excel files.
+ * Excel (pandas): For data storage and organization in Excel files.
  
  * WebDriver (Chrome): Selenium-compatible browser for automated navigation.
