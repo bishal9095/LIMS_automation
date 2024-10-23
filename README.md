@@ -8,7 +8,7 @@ This project automates the process of fetching files from a web source and stori
  
  * Data extraction and transformation using Python.
  
- * Storing and organizing data in Excel format using openpyxl or pandas.
+ * Storing and organizing data in Excel format using openpyxl.
  
  * Customizable workflow for different file types and formats.
 ## Technologies Used:
